@@ -1,0 +1,22 @@
+{
+  "name": "slack-emoji-keyboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackding96/slack-emoji-keyboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackding96/slack-emoji-keyboard/issues"
+  },
+  "homepage": "https://github.com/jackding96/slack-emoji-keyboard#readme",
+  "devDependencies": {
+    "electron": "^4.0.1"
+  }
+}
